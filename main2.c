@@ -7,10 +7,6 @@ int main()
 	// int a= len(n);
 	printf("the digit is %d",strlen(n));
 	return 0;
-	for (size_t i = 0; i < count; i++)
-	{
-		/* code */
-	}
 	
 	
 }
